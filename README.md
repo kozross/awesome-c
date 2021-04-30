@@ -281,6 +281,8 @@ Databases and data stores with C APIs.
 * [CLIST][371] - Simple and lightweight [dynamic array][25] implementation.
   [``BSD-2-Clause``][BSD-2-Clause]
 * [Collections-C][406] - Library of generic data structures. [``LGPL-3.0-or-later``][LGPL-3.0-or-later]
+* [CTL][603] - CTL is a fast compiling, type safe, header only, template-like
+  container library for ISO C99/C11 (improved fork of https://github.com/glouw/ctl). [``MIT``][MIT]
 * [ds][541] - Common Data Structures and Algorithms. [``MIT``][MIT]
 * [igraph][544] - A graph processing library.
   [``GPL-2.0-or-later``][GPL-2.0-or-later]
@@ -1787,3 +1789,4 @@ support for C.
 [601]: https://github.com/smoked-herring/sail
 [601]: https://sigrok.org/wiki/Libsigrok
 [602]: https://github.com/zpl-c/zpl
+[603]: https://github.com/rurban/ctl
